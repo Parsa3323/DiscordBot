@@ -12,3 +12,5 @@ py DiscordBot.py
 ## Database Config
 - you can make a database using [Freesqldatabase](freesqldatabase.com)
 - config DB information into config.json
+## Commands
+![alt text](dfgdsfdsfdgf.png)
